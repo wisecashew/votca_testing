@@ -1,0 +1,3 @@
+#!/bin/bash 
+
+csg_stat --nt 12 --options settings.xml --top topol.tpr --trj traj.xtc --begin 20 --first-frame 0 --cg "fortynipam_cg.xml;water_cg.xml"

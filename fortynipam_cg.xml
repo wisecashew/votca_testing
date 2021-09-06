@@ -1,0 +1,382 @@
+<cg_molecule>
+  <name>PNM</name> <!-- name of the molecule in CG topology --> 
+  <ident>PNM</ident> <!-- name of molecule in all-atom topology --> 
+  <topology>
+    <cg_beads>
+      <cg_bead>
+        <name>BTA</name>
+        <type>TTA</type>
+        <beads>1:PNM:BTA</beads>
+		<mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM2</name>
+        <type>TM</type>
+        <beads>2:PNM:BM2</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM3</name>
+        <type>TM</type>
+        <beads>
+		3:PNM:BM3 
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM4</name>
+        <type>TM</type>
+        <beads>
+		4:PNM:BM4 
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM5</name>
+        <type>TM</type>
+        <beads>
+		5:PNM:BM5
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM6</name>
+        <type>TM</type>
+        <beads>
+		6:PNM:BM6
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM7</name>
+        <type>TM</type>
+        <beads>
+		7:PNM:BM7
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM8</name>
+        <type>TM</type>
+        <beads>
+		8:PNM:BM8
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM9</name>
+        <type>TM</type>
+        <beads>
+		9:PNM:BM9
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM10</name>
+        <type>TM</type>
+        <beads>
+		10:PNM:BM10
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM11</name>
+        <type>TM</type>
+        <beads>
+		11:PNM:BM11
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM12</name>
+        <type>TM</type>
+        <beads>
+		12:PNM:BM12
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM13</name>
+        <type>TM</type>
+        <beads>
+		13:PNM:BM13
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM14</name>
+        <type>TM</type>
+        <beads>
+		14:PNM:BM14
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM15</name>
+        <type>TM</type>
+        <beads>
+		15:PNM:BM15
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM16</name>
+        <type>TM</type>
+        <beads>	
+		16:PNM:BM16
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM17</name>
+        <type>TM</type>
+        <beads>
+		17:PNM:BM17
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM18</name>
+        <type>TM</type>
+        <beads>
+		18:PNM:BM18
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM19</name>
+        <type>TM</type>
+        <beads>
+		19:PNM:BM19
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM20</name>
+        <type>TM</type>
+        <beads>
+		20:PNM:BM20
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM21</name>
+        <type>TM</type>
+        <beads>
+		21:PNM:BM21
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM22</name>
+        <type>TM</type>
+        <beads>
+		22:PNM:BM22
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM23</name>
+        <type>TM</type>
+        <beads>
+		23:PNM:BM23
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM24</name>
+        <type>TM</type>
+        <beads>
+		24:PNM:BM24
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM25</name>
+        <type>TM</type>
+        <beads>
+		25:PNM:BM25
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM26</name>
+        <type>TM</type>
+        <beads>
+		26:PNM:BM26
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM27</name>
+        <type>TM</type>
+        <beads>
+		27:PNM:BM27
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM28</name>
+        <type>TM</type>
+        <beads>
+		28:PNM:BM28
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM29</name>
+        <type>TM</type>
+        <beads>
+		29:PNM:BM29
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM30</name>
+        <type>TM</type>
+        <beads>
+		30:PNM:BM30
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM31</name>
+        <type>TM</type>
+        <beads>
+		31:PNM:BM31
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM32</name>
+        <type>TM</type>
+        <beads>
+		32:PNM:BM32
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM33</name>
+        <type>TM</type>
+        <beads>
+		33:PNM:BM33
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM34</name>
+        <type>TM</type>
+        <beads>
+		34:PNM:BM34
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM35</name>
+        <type>TM</type>
+        <beads>
+		35:PNM:BM35
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM36</name>
+        <type>TM</type>
+        <beads>
+		36:PNM:BM36
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM37</name>
+        <type>TM</type>
+        <beads>
+		37:PNM:BM37
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM38</name>
+        <type>TM</type>
+        <beads>
+		38:PNM:BM38
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BM39</name>
+        <type>TM</type>
+        <beads>
+		39:PNM:BM39
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+      <cg_bead>
+        <name>BTB</name>
+        <type>TTB</type>
+        <beads>
+		40:PNM:BTB
+		</beads>
+        <mapping>UNITY</mapping>
+      </cg_bead>
+    </cg_beads>
+    <cg_bonded>
+      <bond>
+        <name>BOTA</name> 
+        <beads>BTA BM2</beads>
+      </bond>
+      <bond>
+        <name>BOTB</name> 
+        <beads>BTB BM39</beads>
+      </bond>
+      <bond>
+        <name>BOMM</name>
+        <beads>
+		BM2 BM3
+		BM3 BM4
+		BM4 BM5
+		BM5 BM6
+		BM6 BM7
+		BM7 BM8
+		BM8 BM9
+		BM9 BM10
+		BM10 BM11
+		BM11 BM12
+		BM12 BM13
+		BM13 BM14
+		BM14 BM15
+		BM15 BM16
+		BM16 BM17
+		BM17 BM18
+		BM18 BM19
+		BM19 BM20
+		BM20 BM21
+		BM21 BM22
+		BM22 BM23
+		BM23 BM24
+		BM24 BM25
+		BM25 BM26
+		BM26 BM27
+		BM27 BM28 
+		BM28 BM29
+		BM29 BM30
+		BM30 BM31
+		BM31 BM32
+		BM32 BM33
+		BM33 BM34
+		BM34 BM35
+		BM35 BM36
+		BM36 BM37
+		BM37 BM38
+		BM38 BM39
+		</beads>
+      </bond>
+    </cg_bonded>
+  </topology>
+  <maps>
+    <map>
+      <weights>1</weights>
+	  <name>UNITY</name>
+    </map>
+  </maps>
+</cg_molecule>
